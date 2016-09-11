@@ -1,5 +1,59 @@
+#heading {
+  width:100%;
+  overflow:hidden;
+}
+
+#name {
+  width:650px;
+  float: left;
+}
+
 #photo {
-  height:100em;
-  width:100em;
-  border:2px solid black;
+  overflow: hidden
+}
+
+#text {
+  padding-left: 20px;
+}
+
+#netid {
+  font-family: Serif;
+  font-size: 2em;
+  font-weight: bold;
+  color: #253685;
+  margin-top:-50px;
+  margin-left: 23px;
+}
+
+#biography {
+  width:550px;
+  font-family: Serif;
+  font-size: 1.5em;
+  color: #253685;
+  margin-left: 20px;
+}
+
+#link {
+  text-decoration: none;
+  color:#253685;
+}
+
+#text {
+  float:left;
+  margin-left: -15px;
+}
+
+#social {
+  width:2%;
+  float:right;
+  margin-right: 47%;
+}
+
+h1 {
+  font-family: Serif;
+  color: #253685;
+  font-weight: bold;
+  font-size: 5em;
+  margin-top: 17px;
+  margin-left: 20px;
 }
