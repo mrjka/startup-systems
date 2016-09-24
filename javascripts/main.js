@@ -1,3 +1,4 @@
 function createAlert() {
-	alert("YAY!!!!");
+	button = document.getElementById("disappear");
+	button.style.visibility = "hidden";
 }
