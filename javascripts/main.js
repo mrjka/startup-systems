@@ -1,1 +1,3 @@
-console.log('This would be the main JS file.');
+$( "#change_color" ).click(function() {
+  alert( "Button pressed to change color" );
+});
